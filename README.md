@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MansiK21
+- 🎓 Pursuing Diploma in Computer Science Engineering
 - 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Web-Technology and C programming 
 - 📫 How to reach me - github.com/mansik21
 
 <!---
