@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @MansiK21
 - 🎓 Pursuing Diploma in Computer Science Engineering
 - 👀 I’m interested in:
-                       Data Structures & Algorithms
-                       Competitive Programming
-                       System Design (beginner level)
-                       Problem Solving & Logical Thinking
-                       Software Development
+                       Data Structures & Algorithms,
+                       Competitive Programming,
+                       System Design (beginner level),
+                       Problem Solving & Logical Thinking,
+                       Software Development,
                        Computer Science Fundamentals
 - 🌱 I’m currently learning Web-Technology and C programming 
 - 📫 How to reach me - github.com/mansik21
